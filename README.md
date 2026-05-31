@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Riya 👋
 
-<!--
-**RIYA08-dotcom/RIYA08-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
 
-Here are some ideas to get you started:
+💻 Currently Learning
+- Java
+- Data Structures & Algorithms
+- Backend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Goals
+- Improve Problem Solving
+- Build Projects
+- Get a Software Development Internship
+
+📚 Current Focus
+- Java
+- Arrays
+- DSA
+
+📫 Contact
+- Email: riyachaudhary9917@gmail.com
