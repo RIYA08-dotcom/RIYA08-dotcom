@@ -1,21 +1,22 @@
-# Hi, I'm Riya 👋
+# Hi, I'm Riya Chaudhary 👋
 
-🎓 B.Tech CSE Student
+🎓 B.Tech CSE Student | Aspiring Software Engineer
 
-💻 Currently Learning
-- Java
-- Data Structures & Algorithms
-- Backend Development
+Interested in software development, problem-solving, and building strong computer science fundamentals.
 
-🚀 Goals
-- Improve Problem Solving
-- Build Projects
-- Get a Software Development Internship
+## 💻 Technical Skills
+- **Language:** Java
+- **Core Concepts:** OOP, Data Structures & Algorithms
+- **Database:** SQL, DBMS
+- **Tools:** Git, GitHub, IntelliJ IDEA
 
-📚 Current Focus
-- Java
-- Arrays
-- DSA
+## 🌱 Currently Learning
+- Advanced Java and backend development
+- Algorithmic problem-solving
+- Database concepts and SQL
 
-📫 Contact
+### 📂 Featured Repository
+- [DSA-Java](https://github.com/RIYA08-dotcom) — Practising data structures and algorithms using Java.
+
+### 📫 Contact
 - Email: riyachaudhary9917@gmail.com
